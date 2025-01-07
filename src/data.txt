@@ -1,0 +1,2158 @@
+# vp - v2
+# vpp - v3
+# np - plural noun
+# partexpr - partitive expression
+# vt - transitive verb
+# vs1 - separable verb (1 gap)
+
+# vs1pos - Pull one's weight
+# vts1 - Lavish sth on ___
+
+Dish it out
+Turn the other cheek
+Play ball
+Make up the leeway
+Jut out
+Jot out
+Jot down
+Glut with
+Prime with
+Come to naught
+Seethe with
+Pet peeve
+Romp around
+
+Salt of the earth
+= np
+- She's the ___ - always willing to lend a hand and never expecting anything in return.
+
+Green around the gills
+= adj
+- After the bumpy boat ride, she looked ___ and needed to lie down.
+- Some of the passengers looked kind of ___ after the trip!
+
+Fitting a quart into a pint pot
+= ving
+- Organizing such a large event in such a small city centre is like ___.
+
+Set the wheels in motion
+= vp
+- By signing the contract, she ___ for a new project.
+- The flashy groundbreaking ceremony ___ for the redevelopment of the downtown area.
+- After weeks of planning, they finally ___ for their new business venture.
+
+Ground to a halt
+= vp
+- Without sufficient funding, the construction project ___, leaving the site abandoned.
+
+Sweep ___ under the carpet
+= vs1
+- The company tried to ___ the financial discrepancies ___, hoping no one would notice.
+
+First port of call
+= n
+- When you arrive in the city, your ___ should be the visitor information center.
+- If you're looking to adopt a pet, the local animal shelter should be your ___.
+
+Made a practice of
+= vpt
+- They ___ reviewing their finances monthly to ensure they stayed on budget.
+- He ___ reading a book every week to expand his knowledge.
+
+Save for
+= vt
+- The meeting was attended by everyone, ___ a few members who were out of town.
+
+Keep a tight rein on
+= vt
+- With the budget cuts, the company had to ___ spendings to avoid any financial issues.
+- As the project manager, she needs to ___ the team's progress to ensure they meet the deadline.
+
+Raise ___ hand against
+= vs1pos
+- It's a pathetic, cowardly man who would ___ his ___ a child.
+
+Gild the lily
+= v
+- The design was elegant and minimalistic; adding more features would just ___.
+- The house was perfect as it was, but the new owners decided to ___ by renovating it.
+
+Pushed the boat out
+= vp
+- He ___ for his daughter's wedding, sparing no expense.
+
+Pack the house
+= v
+- The band's performance was so popular that they managed to ___ every night of their tour.
+
+Made a muck of
+= vpt
+- The event was supposed to be well-organized, but they ___ the scheduling.
+- He ___ his first attempt at baking, burning the cake completely.
+
+Draw a veil over
+= vt
+- Let's ___ the unpleasant incident and focus on the future.
+- He decided to ___ his mistakes and start afresh.
+
+Put the wind up
+= vpt
+- The threat of a heavy storm ___ the residents, making them rush to secure their homes.
+- The boss's stern warning ___ the employees about meeting their deadlines.
+
+Primed with
+= vppt
+- She was ___ all the necessary information before the important meeting.
+- The soldiers, ___ heavy weapons, were ready for the mission.
+
+Running the show
+= ving
+- She took over the company and is now ___ with her innovative ideas and strong leadership.
+
+Laid into
+= vpt
+- He ___ the government, criticizing their heavily prejudiced policies during the debate.
+- The manager ___ the employee for consistently arriving late to work.
+
+To the fore
+= adv
+- During the crisis, his long-hidden leadership skills came ___, earning him widespread respect.
+- The issue of climate change has come ___ in recent years, prompting global action.
+
+Come to the table
+= v
+- Both sides need to ___ and discuss their differences to reach an agreement.
+
+Scrimped and saved
+= bivp
+- The family ___ all year so they could go on a summer vacation.
+
+Bow and scrape
+= biv
+- It's frustrating to watch him ___ to those in power instead of asserting his own opinions.
+- He always had to ___ to his boss, going out of his way to show respect and obedience.
+
+On the safe side
+= adj
+- She always leaves early to be ___ and avoid any traffic delays.
+- I know the weather looks fine now, but let's bring an umbrella just to be ___.
+
+Fetched and carried
+= bivpt
+- She ___ items for the art project the whole morning.
+
+In stitches
+= adj
+- We watched a comedy movie last night and it had us ___ throughout.
+
+Pretty penny
+= n
+- That latest-gen Threadripper CPU must have cost a ___.
+
+In for a penny, in for a pound
+= phr
+- We’ve already invested a lot of time into this project, so we might as well see it through. ___!
+
+Bad penny
+= n
+- Just when we thought we'd seen the last of him, he showed up at the party like a ___.
+- That issue with the old car is like a ___, it keeps coming back no matter how many times we fix it.
+
+Penny-wise and pound-foolish
+= adj
+- Buying cheap old GPUs might seem smart, but it’s ___ if you end up having to pay twice for the electric bills.
+
+Penny-pincher
+= n
+- He’s such a ___; he never splurges on anything.
+
+Penny
+= n
+- As soon as she saw the look on his face, the ___ dropped, and she realized he had been the anonymous donor all along.
+- It took a moment, but the ___ dropped when she noticed the clue hidden in the text.
+
+Benefit of the doubt
+= n
+- Even though there was some evidence against him, the jury gave him the ___ and found him not guilty.
+- She missed the meeting, but I'll give her the ___ and assume she had a good reason.
+
+Bad apple
+= n
+- The new team member turned out to be a ___, causing conflicts and disrupting harmony in the workplace.
+- The class was well-behaved, but there was one ___ who constantly caused trouble.
+
+Butcher's dog / Fiddle
+= n
+- After months of training, he was as fit as a ___ and ready for the marathon.
+- Despite her age, she came through the surgery as fit as a ___.
+
+Fit ___ like a glove
+= vs1
+- The apartment seems to ___ their lifestyle ___, offering everything they were looking for in a new home.
+
+Filed into
+= vpt
+- After being scolded, the kids silently ___ their classroom.
+
+File in
+= v
+- Quick, ___ before the show starts!
+
+Knocked spots off
+= vpt
+- The new smartphone model ___ its competitors with its advanced features and sleek design.
+- His performance on the field ___ everyone else's, securing the victory for his team.
+
+Limp on
+= v
+- Despite the numerous setbacks, the project continued to ___, barely making any progress.
+
+Raised ___ hackles
+= vps1
+- The disrespect he showed our professor during class ___ my ___ so badly that I had to go take a walk to calm down.
+
+Call a spade a spade
+= v
+- He doesn't sugarcoat his opinions and always tends to ___.
+- We need to ___ and face the fact that the current strategy isn't working.
+
+Down the drain
+= adj
+- When she missed the deadline, her chances of getting the promotion went ___.
+- After investing heavily in the failed startup, all his savings went ___.
+
+Down the hatch
+= phr
+- Raising his glass to the bride and groom, he said, "To your happiness! ___!"
+
+Go by the numbers
+= v
+- To ensure the project runs smoothly, we need to ___ and stick to the outlined steps.
+- In an emergency situation, it's crucial to ___ to make sure everyone stays safe.
+
+Call it quits
+= v
+- It's getting late, let's ___ for the day and pick up where we left off tomorrow.
+- After several failed attempts, he decided to ___ and try a different approach.
+
+Stick to ___ guns
+= vs1pos
+- Despite the criticism, she decided to ___ her ___ and pressed ahead with her original plan.
+
+Rattle through
+= vt
+- The teacher tried to ___ the key points of the lesson to ensure they covered everything before the test.
+- Despite the tight deadline, she managed to ___ the report and submit it on time.
+
+Beyond the norm
+= adj
+- The athlete's performance was ___, breaking records and setting new standards.
+- Her approach to solving the problem was truly ___, showcasing her creativity and ingenuity.
+
+Deaf ears
+= np
+- His repeated requests for more funding fell on ___, as the board was not interested in increasing the budget.
+
+Stony ground
+= np
+- Her warnings about the impending storm fell on ___ as no one took them seriously.
+- His concerns about the project's feasibility fell on ___, with management deciding to proceed anyway.
+
+Duck's back
+= n
+- He didn't let the negative feedback affect him; it was like water off a ___.
+- I've told him that he's heading for trouble, but he doesn't seem to listen - it's just water off a ___.
+
+Flat out
+= adv
+- The car was going ___ on the highway, pushing its limits.
+- She was working ___ to finish the project before the deadline.
+
+Nipping at the heels of
+= vingt
+- The new startup is ___ the industry leader, challenging their market dominance
+- With the approaching deadline ___ the employee, he had to put in a hundred and ten percent.
+
+Agonized over
+= vpt
+- She ___ which job offer to accept, weighing the pros and cons of each.
+- He ___ every detail of his work, striving for perfection.
+
+Twists and turns
+= binp
+- The plot of the novel is full of ___.
+
+Hustle and bustle
+= bin
+- The ___ of the city can be overwhelming.
+
+Ins and outs
+= binp
+- He is a well-seasoned veteran who knows all the ___ of the business.
+
+Ups and downs
+= binp
+- Life is full of ___, but it's how we handle them that defines us.
+
+Fit the bill
+= v
+- For our new marketing campaign, we need creative thinkers, and John's innovative ideas ___.
+- I've been looking for an unnecessarily overpriced backpack, and this Gucci backpack seems to ___.
+
+By virtue of
+= adjt
+- She was chosen for the position ___ her extensive experience and skills.
+- They earned the top spot in the competition ___ their hard work and dedication.
+
+Swing a cat
+= v
+- The room was so cramped, you could barely ___ in there.
+
+Weather eye
+= n
+- She kept a ___ on her investments, ensuring she made informed decisions.
+- The captain kept a ___ on the horizon, watching for any signs of an approaching storm.
+
+Speak ___ mind
+= vs1pos
+- In our meetings, everyone is encouraged to ___ their ___ and share their ideas.
+
+Committed ___ to memory
+= vps1
+- He ___ the route ___ so he wouldn't get lost on the way.
+- The actor ___ his lines ___ for the upcoming performance.
+
+Slipped ___ mind
+= vps1pos
+- I meant to call her back yesterday, but it completely ___ my ___.
+- I planned to bring the documents, but it ___ my ___  while I was rushing out the door.
+- The meeting was important, but it somehow ___ his ___ amid all the chaos.
+
+Boggled ___ brain
+= vps1pos
+- It really ___ my ___ how cheap the E5-2680v4 is despite its impressive core count!
+
+For the high jump
+= adj
+- When the coach found out about the broken rules, the entire team was ___.
+- He missed another deadline, so he's ___ with the manager this time.
+- After he was caught stealing from the company, everyone knew he was ___.
+
+Over the hill
+= adj
+- He joked that he was officially ___ when he turned 50.
+- Some people think she's ___, but she's still producing amazing work.
+
+Rooted for
+= vpt
+- His entire family ___ his job promotion.
+- We all ___ her as she competed in the talent show.
+
+Weave a web of
+= vt
+- The con artist managed to ___ lies to deceive the unsuspecting victims.
+- The author's skills allowed him to ___ intrigue, keeping readers on the edge of their seats.
+- The politician's speech appeared to ___ promises and assurances, but it was hard to see the concrete plans.
+- She decided to ___ manipulation, playing each member of the group against one another.
+
+Hemmed/Hummed and hawed
+= bivp
+- He ___ for a long time before finally deciding to buy the car.
+- The committee ___ over the proposal, delaying their decision for weeks.
+
+Common touch
+= n
+- The CEO's ___ made her approachable and well-liked by employees at every level of the company.
+- Her novels have a ___, resonating deeply with readers due to their relatable characters and everyday struggles.
+
+Leading light
+= n
+- She is a ___ in the world of modern dance, known for her innovative choreography.
+- As the founder of the company, he remains a ___ in the tech industry, guiding the team to new heights.
+
+Knock ___ lights out
+= vs1pos
+- When the female mugger attacked him, he had no choice but to ___ his ___ to protect himself.
+
+Took to ___ heels
+= vps1pos
+- As soon as they heard the sirens, the robbers ___ their ___ and disappeared into the night.
+- When the angry crowd gathered, he ___ his heels ___ avoid getting caught in the commotion.
+
+Took to
+= vpt
+- After a few lessons, the children ___ the subject like ducks to water.
+- The puppy ___ its new home immediately, exploring every corner with enthusiasm.
+- He ___ his new job with ease, impressing his colleagues with his quick learning.
+
+Took after
+= vpt
+- The new marathon champion ___ his father in his love for sports.
+- She ___ her aunt who was a nurse and pursue a career in medicine.
+
+Have teeth
+= v
+- Without proper funding and resources, the initiative won't ___ and will fail to make a significant difference.
+- Laws need to ___ to deter potential violators and maintain order.
+
+Stretch and tone
+= biv
+- She joined a yoga class to ___ her muscles.
+
+See to
+= vt
+- Could you ___ it that the documents are delivered on time?
+- The nurse will ___ the patient's needs throughout the night.
+- I'll ___ the arrangements for the meeting, so you don't have to worry about it.
+
+Did ___ in
+= vps1
+- The long hike really ___ me ___; I'm exhausted.
+
+Did in
+= vp
+- The strong poison ___ the entire colony of ants.
+- He ___ his knee during the soccer match and had to sit out the rest of the season.
+- The heavy rain ___ our plans for a picnic.
+
+Done for
+= vpp
+- If I don't pass this exam, my chances of graduating on time are ___.
+- The doctor said if I don't take care of my health, my life will be ___.
+
+Lapped up
+= vpt
+- The fans ___ every moment of the concert, cheering loudly for their favorite songs.
+- She ___ the praise from her colleagues after successfully completing the project.
+- He ___ all the attention at the party, basking in the admiration of his friends.
+
+Shuffle off
+= v
+- After a long and fulfilling career, he decided it was time to ___ into a well-deserved retirement.
+- He would ___ to his room every evening, avoiding any social interaction.
+
+Cry a river
+= v
+- The movie was so touching that it made the whole audience ___.
+
+Share in
+= vt
+- She invited her family to ___ her travel experiences through photos and stories.
+- He wanted his friends to ___ his joy when he announced his engagement.
+- The shareholders were eager to ___ the company's profits.
+
+Sitting ducks
+= np
+- Without proper defenses, the soldiers were like ___ to the enemy attack.
+- Leaving the valuables in plain sight made them ___ for thieves.
+
+Harping on about
+= vingt
+- My mom is always ___ the importance of eating vegetables.
+- He kept ___ the need to recycle, even though we all got the point.
+- She can't stop ___ her ex-boyfriend, even though everyone is tired of hearing about it.
+
+Fetched up
+= vp
+- After traveling for hours without a plan, we finally ___ at a small village.
+- After losing his job, he ___ in a new city looking for work.
+- He ___ at our door late at night, completely unannounced.
+
+Moping about
+= vingt
+- After the breakup, he spent days ___ the house, feeling sorry for himself.
+- Instead of ___ the lost opportunity, he decided to focus on new possibilities.
+- On rainy days, he wastes time ___ and doing nothing productive.
+
+Sick as a dog
+= adj
+- After catching the flu, he was ___ for a whole week.
+
+Passed over
+= vpp
+- She was ___ for the promotion, despite her qualifications and hard work.
+- The will specified that the property would be ___ to the eldest son.
+
+Throw the baby out with the bathwater
+= v
+- As you fix the broken toy, be careful not to ___ by removing the parts that still work.
+
+Rant and rave
+= biv
+- When the kid was late again, the teacher began to ___ about his irresponsibility and lack of respect.
+
+Fell off a cliff
+= vp
+- The show's ratings ___ after the lead actor left the series.
+- The team's performance ___ in the second half of the season, losing most of their games.
+
+Knocked ___ down/over with a feather
+= vpps1
+- When he told me he won the lottery, I was so shocked you could have ___ me ___.
+- She was so stunned by the news of her promotion that you could have ___ her ___.
+
+Crop up
+= v
+- Problems can ___ when you least expect them, so always be prepared.
+
+Real kick in the teeth
+= n
+- Being passed over for the promotion was a ___, especially after all his hard work.
+- Losing my job despite years of dedicated service was a ___.
+- Finding out that his best friend had lied to him felt like a ___.
+
+Real kick in the pants
+= n
+- Failing the exam was a ___, teaching him to study more diligently.
+- Getting that rejection letter was a ___, but it motivated him to work even harder
+
+Force of circumstances
+= np
+- By ___, she had to switch careers after her company went bankrupt.
+
+Shot in the dark
+= n
+- Without any clues, his answer to the riddle was just a ___.
+- Launching the new product in that market with no prior market research felt like a ___.
+
+On tenterhooks
+= adj
+- She was ___, waiting for the results of her medical tests.
+- After the job interview, he was ___, hoping for a positive response.
+
+Rough and ready
+= biadj
+- His approach may be ___, but he gets the job done efficiently.
+- The cabin was ___, but it provided shelter and warmth.
+- They had a ___ plan to handle the situation, lacking detail but effective.
+
+Home and dry
+= biadj
+- Once we secure this final contract, we'll be ___ with the project.
+- After acing the last test, she knew she was ___ for the semester.
+
+At loggerheads
+= adj
+- The two companies were ___ over the terms of the merger.
+- The neighbors have been ___ for years about the property boundary.
+
+Crowded around
+= vpt
+- People ___ the scene of the accident to see what had happened.
+
+After a fashion
+= adv
+- He can play the piano ___, but he’s far from a professional.
+- She managed to clean up the room ___, though it was still somewhat cluttered.
+- The new software works ___, but it still has many bugs to fix.
+- He spoke French ___, enough to get by, but not fluently.
+
+Close quarters
+= np
+- We were able to observe the wildlife at ___, giving us an incredible view of their natural behavior.
+- The soldiers trained to fight at ___, preparing for hand-to-hand combat situations.
+- Living in a small apartment means we’re always at ___ with each other.
+
+Across the board
+= adj
+- The company announced a salary increase ___, benefiting all employees.
+- The new policy changes will apply ___, affecting students, teachers, and staff.
+
+For the asking
+= adv
+- Scholarships are available ___ for those who meet the criteria.
+- With his strikingly excellent qualifications, the job was his ___.
+
+Bed out
+= v
+- It's time to ___ the young plants in the garden now that the frost has passed.
+- Farmers need to ___ seedlings early in the season for a successful harvest.
+
+Throwing ___ weight around/about
+= vings1pos
+- After becoming the new manager, he started ___ his ___, making all the important decisions without consulting his team.
+- At family gatherings, she is always ___ her ___, deciding the agenda and making sure everyone follows her plans.
+
+Pawn off
+= v
+- He tried to ___ the difficult tasks to his colleagues.
+- The seller ___ the defective merchandise as if it were new.
+- He decided to ___ his old phone to his friend, claiming it was still in perfect condition.
+
+Ward off
+= v
+- She drinks a cup of ginger tea every morning to ___ colds.
+- They used mosquito repellent to ___ the bugs while camping.
+
+Ride out
+= v
+- They decided to ___ the storm in their cozy cabin.
+- The company managed to ___ the economic downturn without laying off any employees.
+- We need to ___ these tough times and stay focused on our goals.
+
+Grapple with
+= v
+- He had to ___ the difficult decision of whether to move for a new job.
+- The community is trying to ___ the aftermath of the natural disaster.
+- She had to ___ feelings of doubt and uncertainty after the breakup.
+- Students often ___ complex theories in advanced mathematics.
+
+Took the bloom off
+= vpt
+- His negative comments really ___ our first day at the beach.
+- The unexpected rainstorm ___ the outdoor wedding.
+
+In a cleft stick
+= adj
+- The doctor was ___, having to decide between telling the patient the harsh truth or keeping their spirits up with hope.
+- She felt like she was ___, trying to balance her career ambitions with her family commitments.
+- The politician was ___, torn between supporting the party line and listening to the demands of the constituents.
+
+Wrong end of the stick
+= n
+- She got the ___ about the party—it's a costume party, not a formal dinner.
+- You must have got the ___; we’re meeting at the new office, not the old one.
+
+Sticky end
+= n
+- Some historical figures met a ___ due to their controversial actions.
+- If you keep making risky decisions, you might come to a ___.
+- The villain in the movie came to a ___ after his plans were foiled.
+
+Fat chance (of that)
+= phr
+- He thinks he'll get a promotion with that arrogant attitude? ___!
+
+Narrow squeak
+= n
+- It was a ___, but she managed to avoid the accident by swerving just in time.
+- He had a ___ in passing the exam; he just made it by one point.
+
+Tall order
+= n
+- Finishing this project by the end of the week is a ___, but I think we can do it.
+- Preparing a five-course meal in under an hour is a ___ for even the best chefs.
+
+Dirty dog
+= n
+- After finding out he lied to her, she called him a ___.
+- He cheated in the game and everyone called him a ___.
+
+High horse
+= n
+- You should come down off your ___ and listen to what they have to say.
+- He needs to get off his ___ and realize that he's not always right.
+
+Low ebb
+= n
+- Her spirits were at a ___ after hearing the disappointing news.
+- The market is currently at a ___, with investors feeling uncertain about the future.
+
+Lower reaches
+= np
+- The book remained in the ___ of the bestseller list for months before gaining popularity.
+- The study focused on the ___ of the social hierarchy and its impacts on health.
+
+Saved ___ bacon
+= vps1
+- Wearing a helmet ___ his ___ when he fell off his bike.
+- The unexpected bonus from work really ___ their ___ just when they were struggling to pay bills.
+
+Get bent out of shape
+= v
+- There's no need to ___ about the new office policies.
+- Don't ___ just because we disagree on this.
+
+Keen as mustard
+= adj
+- He's ___ about his role in the big soccer game this weekend.
+
+Blast off
+= v
+- The crowd cheered as the fireworks began to ___ into the night sky.
+- The sprinters lined up, ready to ___ at the sound of the starting gun.
+- We’re about to ___ on this new project with a team meeting next week.
+
+Rip ___ off
+= vs1
+- The mechanic tried to ___ me ___ by charging double for the repairs.
+
+Zonked out
+= vp
+- He was so exhausted from the long day at work that he ___ on the couch as soon as he got home.
+- After spending all day at the beach, the kids ___ in the backseat on the way back to the hotel.
+
+Shake off
+= vt
+- Despite her cold, she decided to ___ the illness and return to work quickly.
+- After a long day, he took a walk to ___ the stress.
+- The spy had to ___ the agents tailing him before meeting his contact
+
+Sent ___ packing
+= vps1
+- After repeated warnings about his performance, the company finally ___ him ___.
+- When she found out he was lying, she ___ him ___ without a second thought.
+
+C'est la vie
+= phr
+- We missed the bus, but ___. We'll catch the next one.
+- I didn't get the job I wanted, but ___. Something better might come along.
+
+Scarfed down
+= vp
+- After the marathon, she ___ a big plate of pasta.
+- The kids ___ the cookies as soon as they came out of the oven.
+- He ___ his breakfast in a hurry before heading to work.
+
+Hold the reins
+= v
+- The newly elected president will soon ___ of the government.
+- She was promoted to call the shots and ___ of the new project due to her excellent track record.
+
+Hold the fort
+= v
+- I'll be back in a few minutes. Can you ___ and take care of the customers?
+- While I'm away, my sister will ___ and look after the kids.
+
+Hold the field
+= v
+- The team tried to ___, preventing their opponents from scoring for the entire match.
+- Despite the fierce battle, the troops managed to ___ until reinforcements arrived.
+
+Scoffed at
+= vpt
+- He ___ the idea of taking a vacation, saying he had way better things to do.
+- She ___ his attempts to apologize, not believing he was sincere.
+- Many ___ the proposal, dismissing it as unrealistic and impractical.
+
+At bay
+= adj
+- She takes vitamins to keep illnesses ___ during the winter months.
+- Regularly checking your emails can help keep chaos ___.
+- To keep debt ___, he carefully monitors his spending and saves diligently.
+
+Separate the wheat from the chaff
+= v
+- The rigorous interview process is designed to ___ and find the most qualified candidates.
+- The editor's job is to ___, ensuring only the best articles are published.
+
+Dredge up
+= vt
+- She didn't want to ___ old memories of her difficult childhood.
+- The historian managed to ___ forgotten facts about the ancient civilization.
+
+Darted off
+= vp
+- The cat spotted a butterfly and ___ to chase it across the garden.
+- He got an urgent call and ___ without saying goodbye.
+- She remembered she left the oven on and ___ to the kitchen.
+
+Off-the-grid
+= adj
+- They decided to move to a remote cabin in the mountains and live ___, relying on solar power and a well for water.
+- Our ___ vacation was so peaceful; no internet, no phone signal, not a cell phone in sight, just people living in the moment.
+
+Stamp out
+= vt
+- Health officials are working tirelessly to ___ the spread of the virus.
+- The government launched a new campaign to ___ corruption in public offices.
+
+Lame duck
+= n
+- The president became a ___ after the election, with limited power to influence new legislation.
+
+Take it up a notch
+= v
+- If you're finding this workout too easy, ___ by adding some weights or increasing the intensity
+
+On the lam/run
+= adj
+- The suspect has been ___ ever since his escape from prison last year.
+
+Worth ___ salt
+= adjs1pos
+- No doctor ___ their ___ would recommend such a treatment without thorough research.
+- Any engineer ___ their ___ should be able to troubleshoot this problem without much difficulty.
+
+In the trenches
+= adj
+- Our team has been ___, working tirelessly to develop the new software update.
+- During the busiest season, you'll find the manager ___, working alongside the staff to meet the deadlines.
+
+Spot of bother
+= n
+- We had a ___ with the car on our way to the beach, but luckily it was just a flat tire.
+- There was a ___ at the airport when our flight got delayed due to bad weather.
+
+Sing like a canary
+= v
+- Faced with the threat of a long prison sentence, he chose to ___ and testify against his accomplices.
+
+Tally with
+= vt
+- His story didn't ___ the facts presented by the witnesses.
+- The final count must ___ the records we have on file.
+
+Tally up
+= vt
+- Let's ___ everyone's suggestions and decide on the best course of action.
+
+By the wayside
+= adj
+- With his new job demanding so much of his time, his hobbies have fallen ___.
+- Despite her initial enthusiasm, her New Year's resolution to exercise daily fell ___ after just a few weeks.
+
+Up the spout
+= adj
+- The printer is ___ again, so we can't print the documents right now.
+- His attempt to fix the leak went ___, and now the problem is worse.
+- The project was behind schedule and over budget, and it looked like the entire plan was ___, with no chance of success.
+
+Glutton
+= n
+- He keeps signing up for these tough marthons. He's a ___ for punishment!
+- Despite the labor and stress, she's a ___ for work and never complains.
+- He loves being in the spotlight and is a real ___ for attention.
+
+Hold ___ horses
+= vs1pos
+- Before we jump to conclusions, let's ___ our ___ and review the data
+
+A lapse of
+= partexpr
+- During the interview, he experienced ___ memory and couldn't recall the name of the company.
+- Her mistake was attributed to ___ judgment during a stressful situation.
+- The accident happened due to ___ concentration while driving.
+
+A blow of
+= partexpr
+- In ___ luck, she found the lost ring on the beach.
+- Losing his job during the economic downturn was ___ misfortune.
+
+Crack of dawn
+= n
+- They set off on their hike at the ___ to enjoy the sunrise from the mountain top.
+
+A fit of
+= partexpr
+- In ___ rage, he slammed the door so hard it almost came off its hinges.
+- She couldn't help but break into ___ laughter after hearing the hilarious joke.
+
+Lock and key
+= bin
+- No worries - The documents are safely under ___ at my place.
+
+Sniped at
+= vpp
+- The President is used to being ___ by his opponents whenever a new policy is proposed.
+
+Load of cobblers
+= n
+- His bullshit explanation for being late was a ___.
+
+Wrap up
+= vt
+- We're almost done; just a few more details to ___ before the presentation.
+- Let's ___ this meeting and get back to our other tasks.
+
+Look up
+= vt
+- He had to ___ the recipe online before cooking dinner.
+- The kids ___ to their coach as a role model.
+- Things started to ___ once he found a new job.
+
+Acquired a taste
+= vp
+She never liked olives before, but after trying them a few times, she ___ for them.
+
+Full play
+= n
+- He gave ___ to his creativity during the project, coming up with innovative solutions.
+- The art workshop was a place where children could give ___ to their imaginations.
+
+A stitch in time (saves nine)
+= phr
+- A: You do know that you could have just put off fixing that pipe leak until tomorrow instead, right?
+- B: ___.
+
+A watched pot never boils
+= phr
+- Stop checking your phone for the job interview call. ___. Try to relax and keep busy.
+
+You can’t have your cake and eat it (too)
+= phr
+- ___ - Don't expect to pay less tax and still get a plenty of local services.
+
+Eating ___ heart out
+= vings1pos
+- A: I feel just awful for Mary - she's been ___ her ___ ever since she found out she was rejected by her top-choice school.
+- B: Tell her to get over it already or she's gonna put on a heck ton of weight.
+
+Do/Work wonders/miracles
+= v
+- A vacation can ___ for your stress levels.
+- The new treatment shall ___ for patients with rare diseases.
+
+Ruffled ___ feathers
+= vps1
+- His nonchalant but controversial comments ___ a few ___ at the meeting.
+- During the heated discussion, she made a remark about his punctuality, which clearly ___ his ___.
+
+Threw in the towel
+= vp
+- After trying to fix the old car for hours, he finally ___ and called a mechanic.
+- Realizing he couldn't fix the issue, he ___ and called for help.
+
+Turned/Came up trumps
+= v
+- Despite the challenges, she ___ and delivered an excellent presentation.
+- The underdog team ___ and won the championship.
+
+Threw ___ off balance
+= vps1
+- The sudden gust of wind ___ the tightrope walker ___.
+- The unexpected interview question ___ her ___, and she struggled to answer.
+- The competitor's new tactics ___ the team ___, forcing them to adapt quickly.
+
+Throw ___ under the bus
+= vps1
+- The politician ___ his advisor ___ to distance himself from the scandal.
+- When the project failed, he ___ teammate ___ to avoid taking the blame.
+
+Take up
+= vt
+- She decided to ___ painting as a hobby during her free time.
+- The new furniture seems to ___ too much space in the living room.
+- He decided to ___ the job offer from the prestigious company.
+
+Got/Had ___ ducks in a row
+= vps1pos
+- Before submitting the project proposal, Jane made sure she ___ her ___, with every detail meticulously organized and double-checked.
+
+Straight arrow
+= n
+- The new police chief is known as a ___ who won't tolerate any form of corruption.
+- He's a ___ when it comes to following company policies and ethical guidelines.
+
+Circuit breaker
+= n
+- The electrician installed a new ___ to protect the home's electrical system from overloads.
+
+Smoking gun
+= n
+- The fingerprints on the weapon were the ___ that led to the suspect's arrest.
+- The video footage was the ___ that proved the company's involvement in the fraud.
+- The leaked documents served as the ___, exposing the corruption within the organization.
+
+Silver bullet
+= n
+- There is no ___ for solving climate change; it requires multiple approaches and global cooperation.
+
+Gold brick
+= n
+- That get-rich-quick scheme was nothing but a ___. It looked promising, but it was just a waste of time.
+
+Tug at ___ heartstrings
+= vs1
+- The story about the lost puppy finding its way home will surely ___ your ___.
+
+All work and no play
+= n
+- Take a break this weekend and have some fun. ___ makes life dull.
+
+Empty threats
+= np
+- His warnings about quitting were just ___; he never had any intention of leaving the company.
+
+Hot air
+= np
+- The politician's speech was full of ___, with no real plans or solutions.
+- He always makes grand promises, but it's all just ___.
+
+All bark and no bite / All talk (and no action) / All talk/mouth (and no trousers)
+= adj
+- He always brags about his big plans, but he's ___. Nothing ever gets done.
+
+Lead balloon
+= n
+- His joke about the boss went down like a ___, and no one laughed.
+
+Barking up the wrong tree
+= ving
+- If you think I'm the one who made the mistake, you're ___. It was someone else.
+
+It takes two to tango
+= phr
+- For the plan to succeed, both departments need to collaborate. ___.
+
+Nailing jelly to the wall
+= ving
+- Trying to convince conservatives to change their mind is like ___.
+
+Batten down the hatches
+= v
+- As the hurricane approached, residents were advised to ___ and stock up on emergency supplies.
+
+Laid it on with a trowel / Laid it on a bit thick
+= vp
+- She ___ about her friend's cooking skills, even though the meal was just average.
+- When he introduced the guest speaker, he really ___, making it sound like she was a superstar.
+
+Live out of a suitcase
+= v
+- As a traveling consultant, he has to ___, moving to a new city every few weeks.
+
+Lap of luxury
+= n
+- After winning the lottery, they found themselves living in the ___ with a mansion and multiple exotic cars.
+
+Took a turn for the better
+= vp
+- After the surgery, his health ___, and he started to recover quickly.
+
+Blew ___ top
+= vps1pos
+- She tried to stay calm, but she eventually ___ her ___ when her kids ignored her for the fifth time.
+- The manager ___ his ___ when he found out that the team had missed the deadline.
+
+Sifting through
+= vingt
+- He enjoys ___ music recommendations to find new songs to add to his playlist.
+- She spent the afternoon ___ her old photos, deciding which ones to keep and which to discard.
+
+Toot ___ own horn/Blow ___ own trumpet
+= vs1pos
+- I don't mean to ___ my ___, but I did finish the project ahead of schedule.
+- He is always trying to ___ his ___ about his latest business ventures.
+
+Tucked ___ in
+= vps1
+- After reading her a story, he ___ his daughter ___ and kissed her goodnight.
+
+Tucked in
+= vp
+- Everyone ___ as soon as the food was served, enjoying the delicious meal.
+- They ___ to the picnic, eager to try all the homemade goodies
+
+Rack and ruin
+= bin
+- The old mansion had gone to ___ after years of abandonment.
+- The once-thriving business went to ___ following the economic downturn.
+
+Wax and wane
+= biv
+- His enthusiasm for the project seemed to ___ over time.
+- The town's prosperity would ___ with the fortunes of the local industries.
+
+Hundred and ten percent
+= n
+- He put in a ___ to make his dream a reality, working day and night.
+
+A hundred and one
+= adj
+- I can't drive you to the mall, I already have ___ things to get done today.
+
+Ninety-nine times out of a hundred
+= adv
+- ___, she’s the first to arrive at work every morning.
+
+Cock-and-bull
+= biadj
+- When questioned about her recent tardiness, Wendy gave some ___ story about how her train took the wrong track and she had to hitchhike to work from the station across town.
+
+Beer and skittles
+= binp
+- Life isn't all ___; You have to work hard and face challenges.
+
+Nudge and wink
+= bin
+- She gave him a ___, hinting at the surprise party planned for his birthday.
+
+Airs and graces
+= binp
+- He puts on ___ when he's around the elite, but everyone can see through his facade.
+- The new neighbor had ___, always talking about their luxurious vacations and expensive taste in wine.
+
+Simmer down
+= v
+- The kids were so hyper after the party, it took a while for them to ___ and get ready for bed.
+- The manager asked everyone to ___ so they could have a productive discussion without interruptions.
+
+Gobbled up
+= vpt
+- The company ___ several smaller startups to expand its market share.
+- The kids ___ the cookies as soon as they came out of the oven
+- The mounting legal costs quickly ___ their savings
+
+Dallying with
+= vingt
+- She spent a lot of time ___ the idea of moving to a new city but never took any concrete steps.
+- He enjoyed ___ her at the party, but he wasn't looking for a serious relationship.
+
+Pick holes
+= v
+- During the debate, the opposition team tried to ___ in the argument presented by their opponents.
+- She couldn't help but ___ in his story, questioning every detail he shared.
+
+Lavished ___ on
+= vpts1
+- She ___ attention ___ her guests, making sure everyone felt welcome and comfortable.
+- The coach ___ praise ___ the team after their outstanding performance.
+
+Emotional baggage
+= n
+- He finds it hard to trust people because of the ___ from his previous relationship.
+- She realized that to move forward in her career, she needed to let go of the ___ from her childhood experiences.
+
+Garden-variety
+= adj
+- The symptoms she described were just ___ cold symptoms, nothing to be worried about.
+- He's a ___ sports fan who watches the big games but doesn't follow every detail of the season.
+
+Fill ___ shoes
+= vs1pos
+- When the male CEO retired, the new female leader had big shoes to fill, but she quickly proved she could ___ his ___.
+- With the star player injured, the rookie had to step up and ___ his ___ on the team.
+
+Roll up ___ sleeves/Pull ___ socks up
+= vs1pos
+- Having failed his mid-term, he was told to ___ his ___ if he wanted to pass the finals.
+- After receiving poor grades on his report card, he knew it was time to ___ his ___ and start studying harder.
+
+Pulling ___ leg
+= vins1pos
+- I can't believe you thought I was serious! I was just ___ your ___ when I said I was moving to Mars.
+
+Pulled ___ weight
+= vps1pos
+- The project succeeded because everyone ___ their ___ and worked together efficiently.
+
+Pull ___ together
+= vs1pos
+- After hearing the bad news, he took a few deep breaths to ___ himself ___ before speaking to his team.
+- She had to ___ herself ___ quickly after the unexpected setback to continue with the presentation.
+
+High cotton
+= np
+- Ever since she got that promotion, she's been living in ___.
+- With our sales figures reaching new heights, we're really in ___ this quarter.
+
+Ivory towers
+= np
+- Academics sitting in ___ have no understanding of what is important for ordinary people.
+- The new policy proposals, drafted in the ___ of the capital, don't address the actual needs of the rural population.
+
+No-frills
+= adj
+- It's a ___ store supplying only basic goods at affordable prices.
+- The ___ grocery store offers the lowest prices, but don't expect fancy displays or gourmet products.
+
+Plain Jane
+= n
+- She may be a ___, but her kindness and intelligence make her truly special.
+- The new car model is a bit of a ___, with no standout features or exciting design elements.
+
+Standard-issue
+= adj
+- Every new recruit was given a ___ uniform and equipment upon joining.
+- The office laptops were all ___ models, with no special features or customizations.
+
+Threw ___ hat in the ring
+= vpts1
+- After much speculation, she finally ___ her ___ and run for city council.
+
+Pie in the sky
+= n
+- His plan to set up a successful business in this disgustingly capitalistic economy is just ___.
+
+Run-of-the-mill
+= adj
+- The restaurant was just ___. Nothing on the menu stood out, and the service was subpar.
+
+Off-the-peg
+= adj
+- The new office furniture was all ___, but it still looked quite stylish.
+- He prefers bespoke suits over ___ ones because they fit better.
+
+Million-dollar question
+= n
+- Whether to buy a house now or wait for the market to cool down is the ___ for many first-time homebuyers.
+
+Pull rank
+= v
+- He doesn't have the authority to ___ on me.
+- When the team couldn't agree on the new policy, the senior manager decided to ___ and implemented the changes himself using his power.
+
+Curtains
+= np
+- Unfortunately, if this merger doesn't go through, it's ___ for our company.
+- It's ___ for the defending champs if they don't pull off a miraculous comeback.
+
+Made mincemeat of
+= vpt
+- In the debate, she ___ her opponent's arguments with her well-researched points.
+- The lawyer ___ the witness's testimony, exposing inconsistencies and lies.
+- The new startup ___ the competition by offering better products at lower prices.
+
+Off the cuff
+= adj
+- The teacher answered the student's difficult question ___, showing her deep knowledge of the subject.
+- When the project manager asked for my input out of the blue, I had to speak ___, but I think I made some good points.
+
+Over the hump
+= adj
+- We've finally gotten ___ with this project; it's smooth sailing from here.
+
+Hen night
+= n
+- We're planning a ___ for Lisa next Friday. It's going to be an amazing send-off before her wedding.
+
+Stag night/Stag party/Bachelor party
+= n
+- We're planning a ___ for Tom next Friday. It's going to be an amazing send-off before his wedding.
+
+Brought off
+= vpt
+- The team ___ an incredible comeback in the last minutes of the game.
+- Despite the economic downturn, the company ___ a major deal with an international client.
+
+Raking off
+= vingt
+- The corrupt official was found to be ___ a percentage of the funds meant for the project.
+- He always succeeds in ___ a commission from every deal, even the small ones.
+
+Galloped through
+= vpt
+- She ___ the entire novel in just one evening.
+- The speaker ___ the presentation, leaving little time for questions or discussion.
+- He ___ his notes the night before the exam, hoping to remember the key points.
+
+Conniving in
+= vingt
+- He was accused of ___ the embezzlement scheme, helping to divert company funds for personal gain.
+- The students were caught ___ the cheating plan during the exam.
+
+Big up
+= vt
+- Just wanted to ___ my friend for landing that awesome new job! Congratulations!
+
+Pick up the pieces
+= v
+- Following their breakup, she slowly started to ___ and move on.
+- The town came together to ___ after the devastating hurricane.
+- The fire was a blow, but we were determined to ___ and get the business back on its feet.
+
+Any port in a storm
+= np
+- After losing his job, he took a temporary position at a much lower salary. It was a case of ___ to keep some income coming in.
+- When the company's sales plummeted, they accepted a buyout offer from a competitor. It wasn't the best option, but it was ___.
+
+Line of least resistance
+= n
+- When faced with multiple options, he always takes the ___, choosing whatever requires the least effort.
+- Rather than arguing with her colleagues, she followed the ___ and agreed to their plan.
+
+Made a huge dent
+= vp
+- The team worked late into the night and ___ in the project backlog.
+- After hours of sorting and organizing, they ___ in cleaning the garage.
+
+Made a dent
+= vpp
+- I haven’t even ___ in that huge stack of papers I have to read.
+
+Take the plunge
+= v
+- They had been dating for a long time and finally decided to ___ and get married
+- Despite the risks, he finally decided to ___ and invested in the new tech startup.
+
+Lap of honor
+= n
+- The race car driver performed a ___, proudly displaying the checkered flag after his triumphant win.
+
+Touch up
+= vt
+- The artist decided to ___ the painting by adding a little more detail to the background.
+
+Dealing in
+= vingt
+- The company is dedicated to ___ electronics, offering a wide range of gadgets and devices.
+- He made a fortune by ___ rare coins and antique jewelry.
+- She enjoys ___ vintage clothing and often attends flea markets to find unique pieces.
+
+Make allowances
+= v
+- Given the heavy traffic this morning, you should ___ for her lateness.
+- Teachers often ___ for students who have learning disabilities.
+
+Touch and go
+= bin
+- After the surgery, it was ___ for a while, but she eventually pulled through.
+- The doctors informed us that the next few hours would be ___, as they weren't sure if the patient would make it through the critical phase of the operation.
+- Due to the bad weather, our flight was ___, but we landed safely in the end.
+
+Fling off
+= vt
+- Ugh, once Mom came in, yelling that I had to get up, I had no choice but to ___ the blankets and finally get out of bed.
+- She couldn't do anything but ___ her gloves in frustration after the argument.
+
+Pitched in
+= vp
+- My brother ___ with an offer of help.
+- Everyone in the neighborhood ___ to help clean up the park after the storm.
+- When I first bought this dilapidated house, all my friends ___ to help fix it up.
+
+Media blitz
+= n
+- The company launched a ___ to promote its new smartphone, featuring ads on TV, radio, and social media.
+
+With (brass) knobs on
+= adj
+- This new model comes with all the features of the old one, but ___!
+- Your report is just like my report ___ — it's 30 pages longer, with no extra content whatsoever.
+
+Looked askance
+= vp
+- He ___ at the newcomer, unsure whether to trust him.
+
+Kept posted
+= vpp
+- I want to be ___ about any changes to the event schedule.
+
+Put paid to
+= vpt
+- The sudden travel restrictions ___ our vacation plans.
+- The unexpected rise in costs ___ the company's expansion plans.
+
+Caught napping
+= vpp
+- The defense was ___, allowing the opposing team to score an easy goal.
+- I was ___ when the phone rang, and I wasn't expecting any calls.
+
+Break the mould/mold
+= v
+- The young entrepreneur decided to ___ by introducing a revolutionary product that changed the market.
+
+On a tear
+= adj
+- The startup company is ___, rapidly expanding its customer base and increasing its revenue.
+- The basketball team has been ___ recently, winning their last eight games in a row.
+
+Holding ___ thumbs/Keeping ___ fingers crossed
+= vings1pos
+- I'll be ___ my ___ for you during your exam tomorrow.
+- Fans across the country are ___ their ___ for the team to win the championship.
+
+Put one over on
+= vt
+- She tried to ___ her teacher by turning in the same essay she used for another class.
+- Mysterio tried to ___ the entire world, making them believe he was a hero.
+
+Cream of the crop
+= n
+- The students in the honors program are considered the ___ in the school.
+
+Out of the frying pan into the fire
+= adj
+- Many kids who try to run away from unhappy homes discover that they've jumped ___ when they try to live on their own.
+
+Out of the fire
+= adj
+- My brother is the best lawyer in town, and he's pulled me ___ on more than one occasion!
+- The president gets all the credit for the economic recovery, but it was really a team of international financial strategists that pulled it ___.
+
+Chain of events
+= n
+- Losing his job started a ___ that forced him to reevaluate his life and career
+- The detective pieced together the ___ leading up to the crime to understand the suspect's motive.
+
+Weak links
+= n
+- The success of the project was hampered by a few ___ in the team who couldn't keep up with the deadlines.
+
+Double bind
+= n
+- The principal was caught in a ___ because whether she expelled the student or let him off, she would still get blamed.
+
+Happy medium
+= n
+- When he has an exam, he either studies day and night or does nothing at all. He can never find the ___.
+
+Juggle with
+= vt
+- Parents have to ___ their job commitments to spend enough time with their kids.
+
+Falling off a log
+= ving
+- She found learning languages as easy as ___.
+
+Root around
+= v
+- We had to ___ in the back of the car for an hour to find the missing keys.
+
+Ramble on
+= vt
+- He tends to ___ about his favorite movies, sometimes without realizing he's lost the interest of his listeners.
+
+Rallied round
+= vpt
+- The community ___ the local family who lost their home in a fire, providing them with food, clothing, and shelter.
+- When he was going through a tough time, his friends all ___ to offer their support and help.
+- People from all over the town ___ to raise funds for the new community center.
+
+Think the world
+= v
+- She seems to ___ of her mentor, always seeking advice from him.
+- I ___ of my niece - she's a smart, loving girl.
+
+In the weeds
+= adj
+- With all these new projects, I'm really ___ and struggling to keep up with my workload.
+- During the dinner rush, the kitchen staff found themselves ___, trying to manage the flood of orders.
+- He's one of those rare people who can get down ___ and work on the details, but still see the big picture.
+- I don't want to get too lost ___, but there is a margin of error.
+
+Into the weeds
+= adj
+- During the meeting, we got a little ___ discussing the technical specifications, which confused some of the team members.
+- Let's not get ___ with the budget details right now; we need to focus on the overall strategy.
+
+Ramp up
+= vt
+- The IT team is working to ___ the server capacity to handle the increased traffic on the website.
+- The company plans to ___ production to meet the growing demand for its products.
+
+Here and there
+= biadj
+- You can occasionally find wildflowers growing ___ around the field.  
+
+Neither here nor there
+= biadj
+- Whether he prefers to study in the morning or at night is ___; what matters is that he completes his assignments.
+- He mentioned that he doesn’t like broccoli, but that’s ___ since we were talking about dessert options.
+
+Make hay while the sun shines
+= v
+- The company decided to ___ by launching their new product during the holiday season when consumer spending was still high.
+
+Make headway
+= v
+- After several meetings, the negotiators finally began to ___ towards a peace agreement.
+- She has been studying hard and is starting to ___ in understanding complex mathematical concepts.
+
+Made heavy weather of
+= vpt
+- He ___ the simple task, turning a ten-minute job into an hour-long ordeal.
+- They ___ assembling the flat-pack furniture, despite the clear and simple instructions.
+
+Make good time
+= v
+- Despite the heavy traffic, they managed to ___ and reached the campsite before sunset.
+
+Made good
+= vp
+- He’s a boy from a poor background who ___ on Wall Street.
+- My uncle owed thousands, but eventually he ___ on all of his debts.
+- He promised to repay the loan by the end of the month, and he ___ on his word.
+- He took a big risk by starting his own company, but he ___ and turned it into a thriving business.
+
+Made free with
+= vpt
+- He ___ the snacks at the party, not realizing they were meant for later.
+- Their guests ___ the amenities, using all the hot water without asking.
+
+Make haste
+= phr
+- ___! The bus is about to leave and we can't miss it.
+
+More haste, less speed
+= phr
+- Speeding through the rain to get home faster caused him to skid off the road. ___.
+- He tried to chop the vegetables quickly but ended up cutting himself. Sometimes, ___.
+
+Against time/the clock
+= adj
+- It was a real race ___ to get all the costumes sewn for the play.
+- The doctors fought ___ to save the patient, who could have passed away at any moment after the severe accident.
+- The team worked ___ to complete the project before the end of the day.
+
+Around-the-clock/Round-the-clock
+= adj
+- To meet the tight deadline, the construction crew worked ___, often putting in double shifts.
+
+Went against the grain
+= vp
+- The artist ___ by using unconventional materials for his sculpture, challenging traditional art forms.
+
+Get a wiggle on
+= v
+- If you don't ___, we'll be late for school!
+
+By the seat of ___ pants
+= adjs1pos
+- When his GPS failed during the road trip, he navigated ___ his ___, using road signs and a general sense of direction.
+
+Playing second fiddle
+= ving
+- Despite ___ to the star player, he made crucial contributions to the team's victory.
+
+Hasten to add/point out/say
+= vt
+- We noticed some errors in the report, and I ___ that they are being corrected as we speak.
+
+Work at
+= vt
+- They plan to ___ improving their product to better meet customer needs.
+
+Far cry
+= n
+- The luxurious hotel we stayed at this year is a ___ from the budget motel we stayed at last year.
+
+Pipe dream
+= n
+- Winning the lottery and becoming a millionaire is just a ___ for most people.
+
+Got stood up
+= vp
+- They planned to go to the movies together, but he ___ and ended up having to watch the film alone.
+
+Bad/Difficult/Rough/Sticky patch
+= n
+- She's been going through a ___ at work, dealing with multiple project failures.
+- Their relationship hit a ___ when they had to deal with long-distance separation.
+- The company is facing a ___ due to declining sales and increased competition.
+
+At every turn
+= adv
+- She faced challenges ___ while trying to start her own business.
+- The investigation revealed new clues ___, making the case more complex.
+
+Spick and span
+= biadj
+- It is surprising how she managed to keep the house so ___, given that she's got two kids who's always frolicking around the house.
+
+Thick and thin
+= bin
+- They promised to support each other through ___, no matter what they faced.
+
+High and low
+= biadj
+- She looked ___ for her missing keys, but they were nowhere to be found.
+
+At large
+= adj
+- The suspect is still ___, and the police are conducting a manhunt to capture him.
+- The new policy received mixed reactions from the public ___.
+- The report covered the issue ___, providing extensive details and analysis.
+
+Set back
+= vpp
+- The project was ___ by technical issues, which forced the team to delay the product launch.
+
+Pop the question
+= v
+- He planned a romantic dinner by the beach to ___ under the stars.
+
+From top to toe
+= adv
+- The detective examined the crime scene ___, leaving no stone unturned.
+
+The jig is up
+= phr
+- She's been pretending to work on the project for weeks, but when her boss asks for progress and found nothing, she realizes ___.
+
+Bed and board / Board and lodging
+= bin
+- The job posting mentioned that ___ would be provided, so she wouldn't have to worry about finding a place to stay or meals.
+
+Jigging about
+= ving
+- Stop ___, Billy, and just stand still for a moment!
+
+Nook and cranny
+= bin
+- Every ___ of the house was stuffed with souvenirs of their trips abroad.
+
+Tripped up
+= vp
+- She ___ on the rug and fell face first onto the floor.
+- She ___ during her speech when she forgot her lines.
+- I ___ on the last question and lost a few points.
+
+Shudder to think
+= vt
+- I ___ what my parents will say when I tell them I've failed my exams.
+
+Hold out/Offer/Extend an olive branch
+= v
+- After the heated argument, she decided to ___ by apologizing and suggesting they start over.
+
+Par for the course
+= n
+- The school is going to be cut again this year, but then that's ___.
+- Long meetings are ___ in the corporate world.
+
+That dog won't hunt / That cock won't fight
+= phr
+- Tom wants to sue them, but ___ if you ask me.
+
+Knock it off
+= phr
+- Oh, ___ Alex! I'm really not in the mood for your jokes.
+
+Water under the bridge
+= n
+- They had a big argument last year, but it's all ___ now.
+
+Water over the dam
+= n
+- He missed the deadline, but it's ___; there's no point in stressing about it now.
+
+Head start
+= n
+- His extensive background in the field gave him a ___ when he began his new job.
+
+Think highly of
+= vt
+- The students ___ their professor, praising his engaging teaching style.
+
+Exposed to the elements
+= adj
+- Living on the streets often means being ___, facing harsh weather conditions daily.
+
+Double take
+= n
+- She had to do a ___ when she saw the striking resemblance between the two strangers.
+- He did a ___ when he saw his old friend from school in the busy marketplace, unable to believe his eyes at first.
+
+Took a shine to
+= vpt
+- The children ___ their new teacher, feeling comfortable and eager to learn.
+- The customer immediately ___ the vintage car, deciding to purchase it on the spot.
+- She ___ the quaint little café and made it her go-to spot for weekend brunches.
+
+Take heart from
+= vt
+- Even though you did not win the race, ___ the fact that you did your best.
+
+Plunge ahead
+= v
+- Despite the storm warnings, they decided to ___ with their hiking trip, determined to reach the summit.
+- With no map and only a vague idea of the path, they decided to ___ into the dense forest.
+
+Part company
+= v
+- After years of working together, the two business partners decided to ___ due to differing future visions.
+
+Get sauced
+= vt
+- They invited us to ___ with them and we ended up all collapsing in beery exhaustion.
+
+Take issue with
+= vt
+- I ___ those who push their children too hard.
+
+Off ___ trolley
+= adjs1pos
+- People thought he was completely ___ his ___ for trying to build a flying car in his garage.
+
+Rake in
+= vt
+- The casino managed to ___ large sums of money from tourists visiting the city.
+- During the holiday season, many stores ___ substantial revenue due to increased sales.
+
+Rake up
+= vt
+- He tends to ___ old grievances every time we argue, making it hard to move forward.
+- The journalist decided to ___ the politician's past scandals to create a sensational story.
+
+Pick up on
+= vt
+- She was quick to ___ the subtle hints he was dropping about the surprise party.
+- It's impressive how children can ___ new languages so quickly!
+- He didn't ___ the sarcasm in her voice and took her comment literally.
+
+Pin down
+= vt
+- It's hard to ___ exactly when the tradition started, as there are many conflicting accounts.
+- The scientist was able to ___ the cause of the anomaly after conducting several experiments.
+
+In a rut
+= adj
+- After working the same job for ten years, he felt like he was ___ and needed a change.
+- She's been ___ since the breakup, doing the same things every day without enthusiasm
+
+Rat-assed / Rat-arsed
+= adj
+- The boys got completely ___ at the party, even though they weren't old enough to drink!
+
+In the red
+= adj
+- The company has been operating ___ for the past two quarters, struggling to cover its expenses.
+
+In the black
+= adj
+- The company has been operating ___ for the past two quarters, thriving with very little expenses.
+
+In the pink
+= adj
+- After recovering from the flu, she's now ___ and feeling great.
+- Despite his age, he's still ___ and active every day.
+
+Hit the road
+= v
+- I'd love to stay longer but I really need to ___.
+- After finishing up all the paperwork, we decided to call it a day and ___ before the evening rush hour.
+
+Hit the ball out of the park
+= vp
+- Her presentation at the conference ___, earning her a standing ovation.
+- The marketing campaign was so effective that it ___, doubling the sales.
+- The team ___ with their innovative new product, capturing the market's attention.
+
+Hit the deck
+= vp
+- As the alarm went off, everyone ___ to avoid potential flying debris.
+- He saw the ball coming fast toward him, so he ___, lying flat on the ground.
+
+Hit the ground running
+= vp
+- The new manager ___, implementing changes within her first week.
+- After graduating, he ___ in his new job, impressing his colleagues with his skills.
+- The team ___ at the start of the project, meeting all the initial deadlines.
+
+Hit the skids
+= vp
+- After the new competitors entered the market, the once-thriving company ___ and struggled to stay afloat.
+- The economy ___ during the recession, with many businesses closing down and unemployment rising.
+
+Hit the spot
+= v
+- After a long hike, that cold lemonade really ___.
+- Those morning coffee cups always ___ for me.
+- After working all day, a warm bath really ___.
+
+Hit the wall
+= vp
+- During the marathon, he ___ at the 20-mile mark and struggled to keep running.
+- The team ___ midway through the game, losing their momentum and energy.
+
+Roll over
+= v
+- "If the bill passes, we're certainly not going to ___ and say that's fine," he said.
+- They're not going to just ___ and let him play because they're getting pressure from everybody.
+
+Wooden spoon
+= n
+- Despite their best efforts, the team finished with the ___ in the tournament.
+- After a non-stop series of losses, the club was awarded the ___ for their performance.
+- She humorously accepted the ___, knowing that participating was more important than winning.
+
+Hit the books
+= v
+- He decided to burn the midnight oil and ___ to be able to ace the test.
+
+Hitting the bottle
+= ving
+- After the breakup, he started ___ more frequently to cope with his emotions.
+
+Flew off the handle / Hit the roof/ceiling
+= vp
+- When he heard about the unfair decision, he ___ and started shouting.
+
+Up the wall
+= adj
+- The gratingly incessant buzzing noise from the mosquitoes is driving me ___.
+
+Out of circulation
+= adj
+- After her injury, she has been ___ and hasn't been seen at social events for months.
+- Ever since he retired, he has been ___ and spends most of his time traveling.
+
+Out of all recognition
+= adj
+- The bodies were mutilated beyond recognition.
+- > The bodies were mutilated ___.
+
+On the rocks
+= adj
+- The future of the company is now ___ after several bad investments and a shrinking customer base.
+- Their relationship has been ___ ever since they started arguing about finances.
+
+Cat's pajamas/meow/whiskers
+= np
+- She always looks like the ___ in her vintage dresses and stylish accessories.
+
+Feather in ___ cap
+= ns1pos
+- Securing the major contract was a ___ his ___, showcasing his skills in negotiation.
+
+Bee's knees
+= np
+- Her homemade cookies are the ___; I could eat them all day.
+- That new restaurant in town is the ___; everyone is raving about the food and ambiance.
+
+Skeleton in the cupboard/closet
+= n
+- Though the politician appeared flawless on the surface, his career was jeopardized when a journalist unearthed a(n) ___ by raking up a decade-old scandal involving corruption that he had hoped was long forgotten.
+
+Ballpark figure
+= n
+- When planning the event, she asked the caterer for a(n) ___ of how much the service would cost.
+
+Fork out ___ for
+= vts1
+- She had to ___ a lot of money ___ the new kitchen renovation, but it was worth every penny.
+- He had to ___ $2000 ___ a new laptop after his old one broke down unexpectedly.
+
+Caved/Gave in
+= vp
+- Under the intense scrutiny of the press, the politician eventually ___ and provided a full confession.
+
+Branch out into
+= vt
+- After establishing a strong presence in the domestic market, the company decided to ___ international sales.
+
+Plough back
+= vt
+- The company decided to ___ its profits into research and development to drive innovation and future growth.
+
+Hold fast to
+= vt
+- Despite all the challenges he faced, he continued to ___ his dreams of becoming a writer.
+
+Put ___ up
+= vps1
+- After much consideration, she ___ herself ___ for the promotion, hoping to advance her career.
+- After the storm damaged their house, the neighbors ___ them ___, providing them board and lodging until repairs were made
+- When her flight was canceled, a kind stranger ___ her ___ for the night.
+
+Thick skin
+= n
+- His ___ allows him to laugh any kind of criticism off.
+
+Fob off
+= vt
+- The manager tried to ___ the customer with a half-hearted apology and a small discount.
+- She tried to ___ her responsibilities onto her colleagues, but they noticed and pushed back.
+- The parent had to ___ the child's questions with vague answers, avoiding a long discussion
+
+It's funny you should ask
+= phr
+- A: "Do you know if we'll have a meeting tomorrow?"
+- B: "___! I have just received an email about it."
+
+Wise up
+= v
+- It's time for you to ___ and see that they're just using you.
+
+A load of
+= partexpr
+- Get ___ that view! Isn't it amazing?
+
+A film of
+= partexpr
+- The old derelict bookshelf was covered by ___ dust.
+
+Out and about
+= biadj
+- After recovering from her illness, she was finally ___, enjoying the fresh air and visiting friends.
+
+Pressing the flesh
+= ving
+- The candidate spent the afternoon ___ at the county fair, shaking hands with voters and listening to their concerns.
+
+Skimp out on
+= vt
+- The contractor tried to ___ materials, leading to a poorly constructed building.
+
+High and dry
+= biadj
+- When the company went bankrupt, the employees were left ___, with no severance pay or job prospects.
+
+Down and out
+= biadj
+- After losing his job and struggling to find another, he ended up ___, living on the streets and relying on shelters for food.
+
+Blue in the face
+= adj
+- You can tell her to clean her room until you are ___, but she won't do it.
+
+Purple with rage
+= adj
+- The very thought of having to pay more tax for a government with such half-assed healthcare made him ___.
+- My mom went ___ when she found out that I have broken her favorite vase.
+
+Night on the town
+= n
+- After a long week of work, they decided to have a(n) ___, exploring new restaurants and dancing the night away.
+
+Knight of the road
+= n
+- In the 1930s, many men became "___" during the Great Depression, traveling in search of work or adventure.
+
+Breadline
+= n
+- After losing his job, he found himself on the ___, relying on food banks to feed his family.
+
+Stone broke
+= adj
+- To be ___ is practically the same thing as flat broke.
+
+Church mouse
+= n
+- When I first got married, I was as poor as a(n) ___.
+
+Psych ___ up
+= vs1
+- She listened to her favorite music to ___ herself ___ before the presentation.
+
+On ___ beam ends / On ___ uppers
+= adjs1pos
+- After losing his job and his home, he felt like he was ___ his ___, with nowhere to turn.
+- After a series of unfortunate events, he found himself ___ his ___, struggling to make ends meet.
+
+Status quo
+= n
+- It's easier to accept the ___ than to push for change.
+- To innovate, companies must challenge the ___ and think outside the box.
+
+Touché
+= phr
+- A: You always say I'm late, but what about the time you missed the deadline last month?
+- B: ___. You have a point.
+
+Elbow grease
+= n
+- It took a lot of ___ to scrub the stains off the kitchen floor.
+- The old car had been sitting in the garage for years, but with some ___, he managed to get it sparkling clean and running smoothly again.
+
+Hamster wheel
+= n
+- Time spent just sitting on a train can be a rare chance to step off the ___ and observe the world.
+
+Under the plough
+= adj
+- The once wild and untamed valley is now ___, ready for this season's crops.
+
+Cool cat
+= n
+- Her unique fashion sense and chill attitude makes her the archetypal ___.
+
+Cool customer
+= n
+- She’s such a(n) ___; Even during the emergency, she managed to keep her cool and knew exactly what to do.
+
+Hatchet job
+= n
+- The journalist was accused of doing a(n) ___ on the celebrity, focusing solely on negative aspects.
+
+Wet blanket
+= n
+- She didn't want to be a(n) ___, but she had to point out the flaws in their plan.
+
+Hatchet man
+= n
+- The president's ___ was tasked with silencing opposition.
+
+Egged on
+= adj
+- She was ___ by her peers to prank the teacher.
+
+Peppered with
+= adj
+- The essay was ___ historical quotes, with references to different politicians here and there.
+
+Pressed ahead
+= vp
+- Notwithstanding the obstacles, she ___ to meet the deadline.
+- They ___ with the project despite the setbacks.
+
+Butter up
+= vt
+- The salesman tried to ___ his customers with compliments to close the sale.
+
+For the record
+= adv
+- Just ___, I never agreed to those terms, if that's what you're implying.
+
+Charge the earth
+= v
+- Inflation sucks; They now ___ just for a cup of coffee.
+
+Slam down
+= vt
+- I had to ___ the burger so I could get back on the road straight away.
+
+Seasoned with
+= adj
+- His speech was ___ humor, making it engaging for the audience.
+
+At peace with the world
+= adj
+- At that very moment, Gojo felt ___, as if he really were the honored one.
+
+As cool as a cucumber
+= adj
+- Mr Nam accused us of being ___, as if nothing had happened.
+
+Over a barrel
+= adj
+- They have us ___ with this contract; We have no choice but to acquiesce to it.
+
+Bad hair day
+= n
+- She spilled coffee on her shirt during breakfast and missed the bus, and now she's getting berated by the boss, talk about a(n) ___!
+
+Have ___ in a half-nelson
+= vs1
+- We need to reform these outdated laws which ___ the economy ___.
+
+Had a bumpy ride
+= vp
+- She's ___ at school over the last few months, with continual studying and testing.
+
+Hard/Tough nut to crack
+= n
+- The mystery turned out to be a(n) ___, remaining unresolved after months of research.
+
+Hard/Tough row to hoe
+= n
+- Raising four children on a single income was a(n) ___, but I managed to do it anyway.
+
+Hard pill to swallow
+= n
+- It was a(n) ___ learning that my father's fortune had been squandered.
+
+Opened a can of worms
+= vpp
+- I thought installing an AIO cooler would be straightforward, but as soon as I opened the box, I realized I had ___.
+
+See ___ through
+= vs1
+- Despite the challenges, she was determined to ___ the project ___ to the end.
+
+Rearguard action
+= n
+- The soldiers fought a ___ to hold off the enemy while the rest of their unit withdrew to safer ground
+- The team, outmatched in skill, played a ___, focusing on defense to keep the scoreline respectable.
+
+Hard at it
+= adj
+- Despite the late hour, she was still ___, trying to finish the report before the deadline.
+
+Crime of passion
+= n
+- The case was a(n) ___ rather than a real murder with premeditated malice.
+
+Set/Put ___ mind
+= vs1pos
+- If you just ___ your ___ to revising, I'm sure you will get a 10.
+
+Acid test
+= n
+- The ___ of a true friendship is whether it endures through the toughest times.
+- Their performance in the finals will be the ___ of their skills.
+
+Plough through
+= v
+- I've got a pile of paperwork to ___!
+
+Bib and tucker
+= bin
+- I donned my best ___ for the wedding.
+
+Bits and bobs/pieces
+= binp
+- The drawer is full of ___ - clothes, toys, even books!
+
+Dribs and drabs
+= binp
+- The delivery came in ___; First I got the CPU, then the RAM, then the GPU.
+
+All (fingers and) thumbs
+= biadj
+- I can't even untangle this thread - I have been feeling ___ today!
+
+Dole out
+= vt
+- Charity organizations always ___ food and supplies to those in need.
+
+Mete out
+= vt
+- The judge decided to ___ a fair sentence.
+- The coach never fails to ___ reasonable praise and criticism to his team based on their performance.
+
+Vamp it up
+= v
+- She decided to ___ for the party, wearing a stunning red dress and bold makeup.
+- The dress is simple and elegant, but you could ___ for evening wear with some stunning jewellery.
+
+Around the bend
+= adj
+- After months of isolation, he was starting to go ___.
+
+Call the shots
+= v
+- After her promotion, she finally gets to ___.
+
+Abound in/with
+= vt
+- The vibrant patches of forest, where countless species reside, ___ wildlife.
+
+Wonders will never cease
+= phr
+- My son finally got out of his room and did his own laundry for once. ___!
+
+Forge ahead
+= v
+- Despite the setbacks, the team decided to ___ with the project.
+
+Hem in
+= vt
+- The towering mountains ___ the small village, creating a sense of isolation.
+
+Rifle through
+= vt
+- She started to ___ her bag in search of her keys.
+
+Ran high
+= vp
+- Passions ___ as both teams fought for the championship title.
+
+Hell-bent on
+= adjt
+- Despite the hardships, both teams were ___ winning the championship title.
+
+=[
+- Successful people always seize an opportunity whenever it ___ itself.
+++Presents
++ Reveals
++ Displays
++ Shows
+
+- Many feel that the President is, whether by accident or ___, starting a war with Iran.
++ Design
++ Motive
+++Intent
++ Purpose
+
+- Conflicting witness statements present a ____ picture of the incident.
++ Writhed
++ Confused
+++Muddied
++ Grained
+
+- Tony's had that terrible pain in his eye since morning. I'm afraid some ___ body must have got inside it and is causing discomfort.
++ Outside
+++Foreign
++ Exotic
++ External
+
+- The neighborhood was dealing with a(n) ___ of burglaries, leaving residents fearful and on edge.
++ Attack
++ Plague
++ Assault
+++Outbreak
+
+]=

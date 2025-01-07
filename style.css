@@ -1,0 +1,56 @@
+@page {
+  size: A4;
+  margin-top: .7cm;
+  margin-bottom: .3cm;
+  margin-right: 1.75cm;
+  margin-left: 1.75cm;
+}
+
+.page-break {
+  page-break-before: always;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 0;
+  padding: 0;
+}
+
+.question {
+  width: 100%;
+  display: inline-block;
+
+  margin: 0;
+
+  font-family: NotoSerif;
+  font-style: italic;
+  font-size: 12px;
+}
+
+.keys {
+  width: 100%;
+  display: inline-block;
+
+  margin: 0;
+
+  font-family: NotoSerif;
+  font-style: bold;
+  font-size: 13px;
+}
+
+.grid-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-family: NotoSerif;
+  font-size: 10px;
+}
