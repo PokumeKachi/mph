@@ -13,7 +13,49 @@ Turn the other cheek
 Play ball
 Make up the leeway
 Jut out
+Nestle down
+Pull through
+Pack off
+Pander to
+Fair and square
+Draw up
+Fizzle out
+Mellow out
+Rake off
+Punch out
+Shell out
+Prod into
+Warn off
+Split on
+Count against
+Gear toward
+Bane of ___ existence
+Cap and collar
+Not my forte
 Jot out
+To put it mildly
+Apprise of
+Remit to
+Devolve to
+Spring on
+Tax avoidance
+Get one's bearings
+Live wire
+Fast worker
+Last ditch
+Last-minute
+Upper crust
+Gross negligence
+Dry run
+Carry the can
+Hit the nail on the head
+Scores of
+Raise the roof
+To say the least
+A bubble of
+A speckle of
+A whit of
+A dash of
 Jot down
 Glut with
 Prime with
@@ -2154,5 +2196,23 @@ Hell-bent on
 + Plague
 + Assault
 ++Outbreak
+
+- It ___ me to see all this food going to waste.
++ Fusses
+++Grieves
++ Wounds
++ Tears
+
+- After a such a ___ of wins, it seems unfair to talk too much about the team's weaknesses.
++ Blast
+++Spree
++ Blitz
++ Raid
+
+- We neglected the fact that people have interests jointly as well as ___.
++ Solely
+++ Severally
++ Equally
++ Separately
 
 ]=
